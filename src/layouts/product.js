@@ -47,7 +47,7 @@ export default class Product extends React.Component {
                                 );
                             })())}
                             {_.get(this.props, "page.frontmatter.on_sale", null) && {
-                                <div style=()>
+                                <div style=({marginBottom: 20})>
 
                                 </div>
                             }}
