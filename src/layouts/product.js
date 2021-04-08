@@ -50,7 +50,7 @@ export default class Product extends React.Component {
                                 <div style={{marginBottom: 20}}>
                                     <span style={{padding: 10, color: 'red', border: '1px solid red', borderRadius: 10}}>Sale</span>
                                 </div>
-                            )}
+                            }}
                             <div className="product__price">
                                 ${_.get(this.props, 'page.frontmatter.price', null)}
                             </div>
