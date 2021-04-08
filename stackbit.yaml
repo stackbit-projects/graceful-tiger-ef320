@@ -388,7 +388,8 @@ models:
         name: price
         label: Price
       - type: boolean
-        name:         
+        name: on_sale
+                
       - type: number
         name: order
         label: Order
