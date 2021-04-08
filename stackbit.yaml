@@ -389,7 +389,7 @@ models:
         label: Price
       - type: boolean
         name: on_sale
-                
+        label: On Sale        
       - type: number
         name: order
         label: Order
