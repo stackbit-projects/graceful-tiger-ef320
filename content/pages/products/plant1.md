@@ -12,6 +12,7 @@ default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
 category: content/pages/category/bigplants.md
+on_sale: true
 ---
 
 # Nulla suscipit
