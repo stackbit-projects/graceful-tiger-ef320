@@ -46,7 +46,7 @@ export default class Product extends React.Component {
                                     </h2>
                                 );
                             })())}
-                            
+                            {_.get}
                             <div className="product__price">
                                 ${_.get(this.props, 'page.frontmatter.price', null)}
                             </div>
