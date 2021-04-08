@@ -48,7 +48,7 @@ export default class Product extends React.Component {
                             })())}
                             {_.get(this.props, "page.frontmatter.on_sale", null) && {
                                 <div style=({marginBottom: 20})>
-                                    <span></span>
+                                    <span style=({})></span>
                                 </div>
                             }}
                             <div className="product__price">
