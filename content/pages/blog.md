@@ -5,17 +5,17 @@ white_header: false
 sections:
   - section_id: blog
     background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## This is our blog
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: hero_section
 layout: advanced
