@@ -30,7 +30,7 @@
         },
         {
             "title": "Blog",
-            "url": "lorem-ipsum",
+            "url": "blog.planty.com",
             "style": "primary",
             "arrow": false,
             "type": "action"
